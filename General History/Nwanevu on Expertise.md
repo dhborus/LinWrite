@@ -1,0 +1,5 @@
+###  Nwanevu on limits of expertise
+
+
+But “Trump’s America” has never actually contained a majority of Americans who support Trump, his policies, or his approach to politics. The country’s Faucis have long been more popular than its right-wing demagogues. We should see this as emblematic not of how facts and reason might ultimately prevail but of how little they can functionally matter when pitted against a minority disproportionately empowered by our political system and by material and social forces more central to politics than the opinions of experts ever will be. Trump is losing ground, and voters may well hand the presidency to a Democratic nominee chosen partially because he projects sensibility and stability. But Joe Biden owes his position in the polls largely to a real collapse in the country’s material situation; the race between projected competence and wild ignorance was a tighter one mere months ago, and ignorance may well win the day even if Biden takes the White House. We’re headed for dark times, and it seems unlikely that Fauci candles will light the way ahead.
+

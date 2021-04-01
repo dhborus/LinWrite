@@ -1,0 +1,1 @@
+No choice but to conclude that seven months into this they're actually all just too stupid, collectively to understand "incubation period," "test sensitivity" and "test specificity"

@@ -1,0 +1,7 @@
+- [ ] Zaretsky
+- [ ] Pick
+- [ ] Herzog
+- [ ] Shafton
+- [ ] Brooks and Wolloch, Whose Freud?
+- [ ] Badia Sahar Aha, *Freud Upside Down: African American Literature and Psychoanalytic Culture*
+- [ ] 

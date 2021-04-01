@@ -1,0 +1,15 @@
+From middle classes and liberalism nyt
+
+Middle classes are not a priori engines of political liberalization. They can readily become the promoters of repressive authoritarianism if they fear for the loss of influence and wealth. The history of the middle-class opposition to the principles of universal freedom, equality, and civility can be understood as part of the dark side of modernity, as described by Max Horkheimer and Theodor Adorno, the two main figures of the Frankfurt School, in their 1947 classic “Dialectic of Enlightenment.” The middle class has always been Janus-faced. Whether it embraces liberal models of modernity or not depends on the social, economic and political circumstances.
+
+The last years have seen a wide range of publications lamenting the crisis of the middle classes in the West. Consider Ganesh Sitarman’s 2017 book “The Crisis of the Middle-Class Constitution,” which warns of the collapse of a strong middle class as the “number one threat to American constitutional government” in the United States. Or Christophe Guilluy’s “No Society: The End of the Western Middle Class,” from 2018, which looks at the crumbling middle in France (and beyond). And there’s Daniel Goffart’s “The End of the Middle Class,” from last year, which makes the same point for Germany.
+ADVERTISEMENT
+Continue reading the main story
+
+Yet all of these experts operate under the assumption that the middle classes are the bastions of liberal, open societies, and that only their decline could threaten democracy. Sure, the erosion of the middle classes is a problem. But there is another danger which we have not discussed enough — their political illiberalization.
+
+It’s no surprise, then, that right now, growing segments of the middle classes around the world once again turn to illiberal politics. The last decade has seen a wide range of shocks: The Great Recession and the neoliberal excesses of our new Gilded Age, which have led to rising inequalities, have squeezed the middle classes almost everywhere. At the same time, some of the old social center feel threatened by social, economic and political demands of previously marginalized groups — minorities, migrants and the poor.
+
+In their struggle to preserve their socioeconomic position, parts of the middle classes are turning to protest politics, believing that populist strongmen will protect their interests. Establishment and progressive parties need to stop assuming that the middle class will always support them. History says otherwise, and shows how such hubris leads to disaster. The middle classes aren’t lost, but political leaders must now work hard to win back their trust. Ignoring them would be at their own and at our societies’ peril.
+
+David Motadel (@DavidMotadel) is a historian at the London School of Economics and Political Science and co-editor of “The Global Bourgeoisie: The Rise of the Middle Classes in the Age of Empire.”

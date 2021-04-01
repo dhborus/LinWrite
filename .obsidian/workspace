@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "d8cd046874832b24",
+    "type": "split",
+    "children": [
+      {
+        "id": "00fd77a29e644cbd",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tasks.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d4180f6ce19996c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9accd22cc0be5a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79024bf17ab93a3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4e054ec5e60c873",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56a396ad46812c9f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d4c11d5c5ed3e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "108b9e7d9ed02ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48dfa8cc4ccd8d3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e42e86bfb49f68f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Sources/EZ_PF.md",
+    "202103300834.md",
+    "Workflow/Machine.md",
+    "Workflow/Note-Taking.md",
+    "Test.md",
+    "Daily/2021-03-23.md",
+    "EZ.md",
+    "Biblography.md",
+    "Workflow/TextEditor.md"
+  ]
+}

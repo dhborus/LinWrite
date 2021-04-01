@@ -1,0 +1,1 @@
+“The way progressives win is to find progressive candidates of color who can build trust with voters of color and then can win over white progressives"  
