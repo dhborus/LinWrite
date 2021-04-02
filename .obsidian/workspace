@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tasks.md",
+            "file": "Workflow/Machine.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Workflow/Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Workflow/Machine.md",
+    "Workflow/Machine.pdf",
+    "Workflow/Distro.pdf",
+    "Tasks.md",
     "Untitled.md",
     "Sources/EZ_PF.md",
     "202103300834.md",
-    "Workflow/Machine.md",
     "Workflow/Note-Taking.md",
     "Test.md",
-    "Daily/2021-03-23.md",
-    "EZ.md",
-    "Biblography.md",
-    "Workflow/TextEditor.md"
+    "Daily/2021-03-23.md"
   ]
 }

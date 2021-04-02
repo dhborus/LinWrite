@@ -21,7 +21,7 @@ Update 2021-03-23--Ran into some difficulties with Obsidian-Zettlr-Atom but Atom
 
 Similarly, shortcuts seem less direct than mac and keyboard maestro. Autokey is okay but not Mac-like quality. [[Daily/2021-03-23]]
 
-xxhn  
+  
 
 
 
