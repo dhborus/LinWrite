@@ -46,3 +46,5 @@ In truth, the difference between Atom and Zettlr is marginal. They handle citati
 **ease of writing** Atom has dual editor; Zettlr needs kludges with Quick Look. Atom has autocomplete; Zettlr does not. Atom can show PDFs (with package); Zettlr in Linux can not
 
 **Conclusion** -- Really liked autcomplete-bibtex, but not a deal breaker. Atom has slightly more versatility and the tree structure of files that enable Scrivener-like handling of projects.
+
+Ok. Let's see if this will work.
