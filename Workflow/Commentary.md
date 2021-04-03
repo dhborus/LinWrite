@@ -24,7 +24,7 @@ Will need Alfred and Keyboard Maestro replacements (ULauncher comes close).
 
 Working Copy and SSH will allow IOS, MacOS, and Linux exchange.
 
-**Conclusion** Keep Manjaro until it becomes ragged and then replace with elementary.
+**Conclusion** Keep Manjaro until it becomes ragged and then replace with elementary os.
 
 ### Text Editor
 
