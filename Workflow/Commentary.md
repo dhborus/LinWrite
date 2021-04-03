@@ -47,4 +47,4 @@ In truth, the difference between Atom and Zettlr is marginal. They handle citati
 
 **Conclusion** -- Really liked autcomplete-bibtex, but not a deal breaker. Atom has slightly more versatility and the tree structure of files that enable Scrivener-like handling of projects.
 
-Ok. Let's see if this will work.
+Ok. Let's see if this will work. Hasn't really. Oh, there was some confusion left over from Dreams.
